@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "BF NOTE LEFT0",
+			"name": "BF NOTE RIGHT0",
 			"indices": []
 		},
 		{
@@ -52,7 +52,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "BF NOTE RIGHT0",
+			"name": "BF NOTE LEFT0",
 			"indices": []
 		},
 		{
@@ -63,7 +63,7 @@
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
-			"name": "BF NOTE LEFT MISS",
+			"name": "BF NOTE RIGHT MISS",
 			"indices": []
 		},
 		{
@@ -96,7 +96,7 @@
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
-			"name": "BF NOTE RIGHT MISS",
+			"name": "BF NOTE LEFT MISS",
 			"indices": []
 		},
 		{
@@ -107,7 +107,7 @@
 			],
 			"anim": "hey",
 			"fps": 24,
-			"name": "BF HEY",
+			"name": "BF Dead confirm",
 			"indices": []
 		},
 		{
